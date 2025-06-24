@@ -1,5 +1,34 @@
-# python
-<br>
-hello guys how are you this is everything i learnt in python for free!!
+# 🐍 Python Learning Journey by Bhargav
 
-everything I learnt about python!
+This repository is a daily log of my Python learning as I work toward becoming a Machine Learning Engineer.  
+All files are organized by chapter as I progress through the core concepts.
+
+---
+
+## ✅ Completed Topics
+
+- 📘 Chapter 1: Hello World & Introduction
+- 📘 Chapter 2: Variables and Data Types
+- 📘 Chapter 3: Strings (Immutable, Methods, Basics)
+- 📘
+- 📘
+- 📘
+- 📘
+- 📘
+- 📘
+- 📘
+- 📘
+- 📘
+
+
+---
+
+## 💡 Purpose
+
+- Solidify Python fundamentals before diving into Machine Learning
+- Learn by doing, pushing code daily
+- Use GitHub as a public portfolio
+
+---
+
+## 📅 Started On: June 2025
