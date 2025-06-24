@@ -9,4 +9,8 @@ c= "bhargav" #string
 
 # type function (used for identifying the data type)
 a="string"
-type(a)
+print(type(a))
+# we can also change the data type if it is possible
+a=90400
+float(a)
+print(type(a))
