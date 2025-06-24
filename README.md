@@ -1,5 +1,2 @@
 # python
-<br>
-hello guys how are you this is everything i learnt in python for free!!
-
-everything I learnt about python!
+In this repo I will share whatever I have learnt in my python journey from basics to advanced!
